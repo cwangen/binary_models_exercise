@@ -1,5 +1,5 @@
 # binary_models_exercise
-An exploration of data and creation of two binary models (logistic regression, random forest).
+Data exploration and creation of two binary models (logistic regression, random forest).
 
 # Files
 - `Binary_Variable_Deck.pdf`: Short deck explaining results.
